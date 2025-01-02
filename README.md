@@ -3,7 +3,7 @@ Repository zum Lernen von Chinesisch / sammeln von erworbenen chinesisch Wissen.
 
 
 
-- [Allgemeines](#allgemeines)
+- [Allgemeines zur Sprache](#allgemeines-zur-sprache)
 - [Hanzi](./Hanzi.md)
 - [Aussprache](./Aussprache.md)
 - [Grammatik](./Grammatik.md)
@@ -18,7 +18,7 @@ Repository zum Lernen von Chinesisch / sammeln von erworbenen chinesisch Wissen.
 
 ---
 
-### Allgemeines
+### Allgemeines zur Sprache
 
 Das Lernen der chinesichen Sprache ist anspruchsvoll aber zugleich bereichernd und nicht so schwierig wie viele meinen. Mit "chinesischer Sprache" ist hier das Mandarin gemeint, welches die mit Abstand meistgesprochenste Sprachen in China ist. Es gibt jedoch zahlreiche Dialekte, die Teilweise in eigene Sprachen übergehen. <br>Das Mandarin hat ein Sprachsystem und 3 Schreibsysteme. Die traditionellen Schriftzeichen (Hanzi), die vereinfachten Schriftzeichen (Hanzi) und die alphabetische Schrift (Pinyin). In China wird meist die vereinfachten Hanzi verwendet in Kombination mit Pinyin, zum Lernen der Aussprache und zur Verwendung an Smartphones und Computern. Die Grammatik des Mandarin ist sehr trivial und einfach zu verstehen, jedoch sind die Hanzi und die Aussprache teils schwierig zu lernen. Für [Grammatik](./Grammatik.md), [Hanzi](./Hanzi.md) und [Aussprache](./Aussprache.md) gibt es jeweils einen Lernbereich hier. <br>Theoretisch kann ein Student des Mandarin, die Sprache oder auch die Hanzi / Pinyin unabhängig voneinander lernen. So ist es tatsächlich möglich, dass ein Student fließend Sprechen jedoch kein Wort schreiben oder lesen kann. hier sollte je nach Gebrauch abgewogen werden, was wirklich nötig ist. Empfohlen wird alle Elemente des Mandarin zu Lernen und dabei einen Schwerpunkt auf die individuellen Bereiche zu lernen. geht es dem einen Studenten eher um Konversationen, so will ein anderer chinesiche Bücher und News lesen und ein weiterer selbst chinesische Briefe schreiben.
 
